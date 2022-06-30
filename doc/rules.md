@@ -12,6 +12,8 @@ cities, monasteries and fields. Only those who make the most judicious
 placements will gain the points required to win the game.
 
 ## Components
+![](city.png)
+
 * 72 Land tiles (including 1 Start tile with a darker back) showing
 roads, cities, fields and monasteries.
   * Back of the start tile: 
@@ -148,7 +150,7 @@ more than 50 points and keep moving your marker as usual on the scoring track.
   * He then lays his marker on its side to show that he passed space 50.
 
 #### A COMPLETED ROAD
-![](road.png)
+![completed road](road.png)
 
 A road is complete once both ends of the road are connected to a crossroad, 
 a city section, a monastery or the road loops onto itself. There can be any 
@@ -161,7 +163,7 @@ single tile can be used for more than one road section).
 * ![city road](city road.png)
   * Red scores 3 points.
 
-####A COMPLETED CITY
+#### A COMPLETED CITY
 ![completed city](completed city.png)
 
 A city is complete when it is surrounded by walls and there are no gaps in the 
